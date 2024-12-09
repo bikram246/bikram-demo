@@ -1,10 +1,5 @@
 # bikram-demo
-This is my first repository
+This is my first repository.<
+<br>
 Author-Bikram Mallick
-public class Demo
-{
-   public static void main(String[]args)
-   {
-       System.out.println("Hello BIKRAM");
-   }
-}
+
